@@ -14,6 +14,10 @@ demo: https://www.youtube.com/watch?v=9cNUdmwSwrU
 How to build:
 just cd to src and catkin_make.
 
+how to run:
+`roslaunch gz_launch_ros distance_sensor_gazebo.launch
+`
+rviz: `roslaunch rviz_launch iris_rviz.launch`
 ![image](https://github.com/xfahad100/RangeFinder-ROS-Gazebo/assets/39211781/b3593648-1088-44c4-b3af-25fcf9c741ad)
 
 ![image](https://github.com/xfahad100/RangeFinder-ROS-Gazebo/assets/39211781/7b0f3d5e-9fe4-4cb1-bb12-73930f431b38)
