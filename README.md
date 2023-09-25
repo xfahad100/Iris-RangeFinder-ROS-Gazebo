@@ -2,6 +2,13 @@
 
 I have converted sdf file for IRIS copter to xacro for ROS integration and also for connectivity with ArduPilot SITL.
 
+Platforms used:
+ROS version: noetic
+Ubuntu 20.04
+Gazebo 11
+
+Reference: Khancyr Ardupilot Gazebo Plugin SITL
+
 demo: https://www.youtube.com/watch?v=9cNUdmwSwrU
 
 How to build:
