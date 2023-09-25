@@ -2,6 +2,8 @@
 
 I have converted sdf file for IRIS copter to xacro for ROS integration and also for connectivity with ArduPilot SITL.
 
+demo: https://www.youtube.com/watch?v=9cNUdmwSwrU
+
 How to build:
 just cd to src and catkin_make.
 
