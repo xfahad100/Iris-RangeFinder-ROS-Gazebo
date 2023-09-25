@@ -1,4 +1,4 @@
-# RangeFinder-ROS-Gazebo
+# Iris-RangeFinder-ROS-Gazebo
 
 I have converted sdf file for IRIS copter to xacro for ROS integration and also for connectivity with ArduPilot SITL.
 
