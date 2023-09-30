@@ -2,6 +2,8 @@
 
 I have converted sdf file for IRIS copter to xacro for ROS integration and also for connectivity with ArduPilot SITL.
 
+If you're looking for URDF of Iris copter, you can find it in gz_launch_ros/models. 
+
 Platforms used:
 ROS version: noetic
 Ubuntu 20.04
